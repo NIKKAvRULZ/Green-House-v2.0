@@ -20,6 +20,18 @@ The **GreenHouseController** is the central hub that guides users through the sy
 
 ---
 
+## 🖼️ Diagrams 🧑‍💻
+
+Here are some diagrams for a clearer understanding of the system architecture and flow:
+
+- **System Architecture Diagram** 🏛️  
+   ![System Architecture](images/WhatsApp-Image-2025-03-10-at-1.22.03_4e081019.png)
+
+- **Device Management Flow Diagram** 🔄  
+   ![Flow chart](images/green-house-Page-1.drawio.png)
+
+
+---
 ### **Device Management Menus** 🔧
 
 Each type of device in the system can be managed with an intuitive submenu:
