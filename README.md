@@ -50,4 +50,4 @@ The system uses the **OSGi framework**, which allows for dynamic module manageme
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/greenhouse-system.git
+   https://github.com/NIKKAvRULZ/Green-House-v2.0.git
