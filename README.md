@@ -1,4 +1,7 @@
 # 🌱 Greenhouse Monitoring and Control System 🌿
+---
+![Banner](images/BotaniX.png)
+---
 
 Welcome to the **Greenhouse Monitoring and Control System**! This system leverages the **OSGi framework** to manage and control a variety of devices that monitor and maintain the optimal environment inside a greenhouse. The system provides real-time management of temperature 🌡️, humidity 💧, soil moisture 🌾, and UV light 🌞 levels. With this system, you can ensure a healthy and thriving greenhouse environment for your plants! 🌿
 
